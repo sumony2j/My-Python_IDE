@@ -27,10 +27,6 @@
 ![sample3](https://user-images.githubusercontent.com/64437345/186928924-717d42c6-a5d2-407f-b6f3-4e4ae987e43b.png)
 
 
-![Alt text](./img/sample2.png,"Sample View")
-
-![Alt text](./img/sample3.png,"Sample View")
-
 ## Note :
 
 To add more plugins follow the steps :
