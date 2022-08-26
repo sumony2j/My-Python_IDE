@@ -20,7 +20,12 @@
 ```
 ## View 
 
-![Alt text](./img/sample1.png,"Sample View")
+![sample1](https://user-images.githubusercontent.com/64437345/186928774-0237a2a6-3daa-4b32-a48a-201712113733.png)
+
+![sample2](https://user-images.githubusercontent.com/64437345/186928839-41d39f34-f10f-4da6-8bfc-9c1692dc8f6c.png)
+
+![sample3](https://user-images.githubusercontent.com/64437345/186928924-717d42c6-a5d2-407f-b6f3-4e4ae987e43b.png)
+
 
 ![Alt text](./img/sample2.png,"Sample View")
 
@@ -30,7 +35,7 @@
 
 To add more plugins follow the steps :
 
-1. Add the new plugin before **call vundle#end()** with the following syntax -
+1. Add the new plugin before **call vundle#end()** with the following syntax in ~/.vimrc file -
 ```
     Plugin '<name>'
 ```
