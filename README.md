@@ -33,7 +33,7 @@ To add more plugins follow the steps :
 
 1. Add the new plugin before **call vundle#end()** with the following syntax in ~/.vimrc file -
 ```
-    Plugin '<name>'
+    Plugin '<name of plugin>'
 ```
 2. save and exit the ~/.vimrc file
 
