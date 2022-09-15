@@ -14,9 +14,21 @@
 ```bash
     git clone https://github.com/sumony2j/My-Python_IDE.git
 ```
-2. Copy the content of vimrc file to ~/.vimrc
+2. Clone VundleVim
+```bash
+    git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+```
+3. Go to directory
+```bash
+    cd My-Python_IDE
+```
+4. Copy the content of vimrc file to ~/.vimrc
 ```
     cp ./vimrc ~/.vimrc
+```
+5. Run
+```bash
+    vim +PluginInstall +qall
 ```
 ## View 
 
